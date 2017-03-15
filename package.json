@@ -1,6 +1,6 @@
 {
   "name": "powered-by-spiderman",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "express middleware to hide the real X-powered-by header",
   "main": "index.js",
   "repository": "silverlight513/powered-by-spiderman",
