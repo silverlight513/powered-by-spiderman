@@ -1,0 +1,14 @@
+{
+  "name": "powered-by-spiderman",
+  "version": "1.0.0",
+  "description": "express middleware to hide the real X-powered-by header",
+  "main": "index.js",
+  "repository": "silverlight513/spiderman",
+  "author": "Jack Rimell <@silverlight513>",
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "node",
+    "middleware"
+  ],
+}
